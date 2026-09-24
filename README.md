@@ -16,3 +16,7 @@ Manual meal planning often leads to wasted food, forgotten ingredients, and unex
 
 ## Technical Question
 How can I use object oriented programming and data structures to cross reference multiple recipes, eliminate duplicate ingredients, and calculate cumulative totals?
+
+## Proof of Concept
+
+This program bascially demonstrates user input handling, basic arithmetic calculation, and some conditional decision making to evaluate recipe costs against a target limit. It also proves that the project can accept dynamic pricing data, process expenditure, and also give budget feedback to the user. This logic basically will serve as the building block for future functions and data structures.
