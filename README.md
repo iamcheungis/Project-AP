@@ -1,8 +1,8 @@
 # Project Title: Team & Stats Manager
 
 ## Pathway
-* [ ] AP
-* [x] IB SL / IB HL (Level 1)
+* AP
+
 
 ## User
 High school student-athletes and club sports team captains who need a simple way to track player metrics and game performance.
