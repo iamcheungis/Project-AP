@@ -1,7 +1,7 @@
 # Recipe & Grocery Budgeter
 
 ## Pathway
-* AP
+AP
 
 ## User
 Budget conscious students and home cooks who want to organize weekly meals and track grocery spending efficiently and not waste both time and money.
