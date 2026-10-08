@@ -21,8 +21,8 @@ How can I use object oriented programming and data structures to cross reference
 
 This program bascially demonstrates user input handling, basic arithmetic calculation, and some conditional decision making to evaluate recipe costs against a target limit. It also proves that the project can accept dynamic pricing data, process expenditure, and also give budget feedback to the user. This logic basically will serve as the building block for future functions and data structures.
 
-## Class Proof of Concept: `Recipe`
+## Class Proof of Concept: Recipe
 
-- **What the class represents:** The `Recipe` class basically models individual recipes, including properties such as recipe name, estimated total cost, and serving count.
+- **What the class represents:** The Recipe class basically models individual recipes, including properties such as recipe name, estimated total cost, and serving count.
 - **Why it belongs in the project:** Representing recipes as distinct objects allows the application to store, modify, and also calculate pricing for more than 1 meal independently before putting them into a weekly meal plan.
 - **What the test proves:** The driver script shows object creation, updating cost and scaling servings, and accurate calculation of data (cost per serving).
