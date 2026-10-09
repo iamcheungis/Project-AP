@@ -12,7 +12,7 @@ classDiagram
         +int servings
         +dict ingredients
         +__init__(name: str, cost: float, servings: int)
-        +add_ingredient(name: str, cost: float) Void
+        +add_ingredient(name: str, price: float) Void
         +get_cost_per_serving() float
         +get_summary() str
     }
