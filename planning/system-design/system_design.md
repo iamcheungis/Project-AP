@@ -1,6 +1,6 @@
 # System Design & Object Architecture
 
-## 1. Class Diagram
+## Class Diagram
 
 This diagram basically models the relationship between the "Recipe" class and the "MealPlan" class.
 
