@@ -1,8 +1,8 @@
 # System Design & Object Architecture
 
-## 1. Class Diagram (Structural Model)
+## 1. Class Diagram
 
-This diagram models the relationship between the `Recipe` class and the `MealPlan` class. A `MealPlan` manages a collection of `Recipe` objects to aggregate weekly grocery costs.
+This diagram basically models the relationship between the "Recipe" class and the "MealPlan" class.
 
 ```mermaid
 classDiagram
